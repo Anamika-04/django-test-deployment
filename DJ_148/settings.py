@@ -28,7 +28,7 @@ SECRET_KEY = 'fdb954f6-af8e-4bbb-93e4-80e603d1d71e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["anamika04.pythonanywhere.com",]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
